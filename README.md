@@ -35,4 +35,4 @@ Se ha decido usar la opción de definir la licencia desde github.
 
 ## Licencia
 
-Este trabajo se distribuye bajo la licencia XXXX.
+Este trabajo se distribuye bajo la siguiente [licencia](/LICENSE).
